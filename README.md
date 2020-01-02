@@ -1,21 +1,4 @@
-# Stormtrooper
+Övning för att dela upp ett projekt och jobba med scrum.
 
-![Image of Flow scheme](http://i.imgur.com/abePXvq.png)
+![Image of Flow scheme](https://github.com/SebastianWaltilla/ITHS-Course3-DeveloperTools-Practice-Scrum/blob/master/trello.png?raw=true)
 
-logik
-    hur mycket skall du spela för
-            spelare     Får en hand
-            dator       får en hand
-    vill du ha nytt kort
-        jag eller nej
-    
-    dator drar kort om under 17
-            
-    spelare dra kort? 
-        ja eller nej
-    
-                           
-    if om dator tjock eller mindre poäng än spelare
-        spelare får vinst
-     else
-         spelare får 250% av insats
